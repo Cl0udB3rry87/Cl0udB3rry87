@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Rust and Python tutorials and simple useful programs to code.  If you have any ideas let me know. 
 - 📫 How to reach me @Cl0udB3rry87 on Youtube, GMail, Twitch, steam, and Instagram
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I taught myself Apple Basic when I was 8 and did not what I was doing.  Only realized it when I took a QBasic class in high school and it looked really familiar.
+- ⚡ Fun fact: I taught myself Apple Basic when I was 8 and did not what I was doing.  Only realized it when I took a QBasic class in high school and was like: Oh, this looks really familiar!
 
 <!---
 Cl0udB3rry87/Cl0udB3rry87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
